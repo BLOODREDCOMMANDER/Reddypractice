@@ -5,3 +5,5 @@ if b>a:
         if i%5==0:
             print(i, "yeah")
         print(i)
+for l in range (1,10):
+    print(l,l+1);
