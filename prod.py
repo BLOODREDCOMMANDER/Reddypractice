@@ -6,3 +6,5 @@ if age>=2*9:
     print("Adult");
 else:
     print("Child");
+print(a*b);
+print(a+b);
