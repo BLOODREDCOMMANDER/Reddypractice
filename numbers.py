@@ -6,4 +6,4 @@ if b>a:
             print(i, "yeah")
         print(i)
 for l in range (1,10):
-    print(l,l+1);
+    print(l*"Hello");
