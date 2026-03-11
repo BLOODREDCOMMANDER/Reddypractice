@@ -6,4 +6,4 @@ for j in range(1,21):
   if j%2==0:
     print(a,"x",j,"=",a*j);
 for k in range(1,9):
-  print(a,"x",k"=",a*k);
+  print(a,"x",k,"=",a*k);
