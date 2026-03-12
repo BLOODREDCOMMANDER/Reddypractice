@@ -4,3 +4,5 @@ if rev == str1:
     print("Palindome");
 else:
     print("not palindrome");
+if rev != str1 :
+    print(str1,rev,"are not same");
